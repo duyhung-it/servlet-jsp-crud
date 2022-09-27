@@ -1,0 +1,17 @@
+com\javaweb\dao\GenericDAO.class
+com\javaweb\model\RoleModel.class
+com\javaweb\controller\admin\HomeController.class
+com\javaweb\dao\impl\AbstractDAO.class
+com\javaweb\utils\HttpUtil.class
+com\javaweb\dao\INewDAO.class
+com\javaweb\controller\web\HomeController.class
+com\javaweb\model\NewModel.class
+com\javaweb\mapper\NewMapper.class
+com\javaweb\model\UserModel.class
+com\javaweb\mapper\RowMapper.class
+com\javaweb\controller\admin\api\NewAPI.class
+com\javaweb\model\AbstractModel.class
+com\javaweb\service\INewService.class
+com\javaweb\controller\admin\NewController.class
+com\javaweb\service\impl\NewService.class
+com\javaweb\dao\impl\NewDAO.class
